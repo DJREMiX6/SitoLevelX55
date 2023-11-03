@@ -48,6 +48,6 @@
     display: none;
 }
 
-.lvlx-header-back-button.visible {
+.lvlx-header-back-button-link.visible>.lvlx-header-back-button {
     display: inline-block;
 }
