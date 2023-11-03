@@ -3,6 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="../imgs/favicons/site.webmanifest">
+    <link rel="apple-touch-icon" href="../imgs/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../imgs/favicons/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512"  href="../imgs/favicons/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="32x32"  href="../imgs/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16"  href="../imgs/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png"  href="../imgs/favicons/favicon.ico">
     <link href="../css/base.css" rel="stylesheet">
     <link href="../css/shared.css" rel="stylesheet">
     <link href="../css/menu.css" rel="stylesheet">
@@ -11,20 +18,28 @@
     <title>Menu - Home</title>
 </head>
 <body>
-    <div class="container-fluid p-0 m-0 text-center">
-        <div class="row">
-            <div class="col-12 lvlx-header">
-                <div class="lvlx-header-hamburger">
-                    
-                </div>
-                <div class="lvlx-header-logo">
-
-                </div>
-                <div class="lvlx-header-back-button">
-
-                </div>
+    <div class="container-fluid p-0 m-0">
+        <!--Header-->
+        
+        <div class="lvlx-header">
+            <div class="lvlx-header-hamburger-container">
+                <svg class="lvlx-header-hamburger" viewBox="0 0 44 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="3" y="8" width="12" height="2.25" rx="1.125" fill="#E8E8E9"/>
+                    <rect x="3" y="15.5" width="39" height="3" rx="1.5" fill="#E8E8E9"/>
+                    <rect x="3" y="23.75" width="22" height="2.25" rx="1.125" fill="#E8E8E9"/>
+                </svg>
+            </div>
+            <div class="lvlx-header-logo-container">
+                <img src="../imgs/levelx55-header-logo.png" alt="LevelX55 Logo" class="lvlx-header-logo">
+            </div>
+            <div class="lvlx-header-back-button-container">
+                <svg class="lvlx-header-back-button" width="40" height="40" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M14.4375 26.8125L4.125 16.5M4.125 16.5L14.4375 6.1875M4.125 16.5H28.875" stroke="#E8E8E9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
             </div>
         </div>
+        
+        <!--End Header-->
         <div class="row p-0 m-0">
             <div class="col p-0 m-0">
                 <div class="menu-item">
