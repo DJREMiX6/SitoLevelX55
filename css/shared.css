@@ -1,0 +1,30 @@
+.lvlx-header {
+    padding: 0;
+    margin: 0;
+    height: 80px;
+    width: 100%;
+    background-color: #212121;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-flow: row;
+}
+
+.lvlx-header-hamburger {
+    width: 44px;
+    height: 33px;
+    margin-top: auto;
+    border: 1px solid red;
+}
+
+.lvlx-header-logo {
+    height: 33px;
+    width: 100px;
+    border: 1px solid red;
+}
+
+.lvlx-header-back-button {
+    width: 33px;
+    height: 33px;
+    margin-top: auto;
+    border: 1px solid red;
+}
