@@ -1,0 +1,99 @@
+.lvlx-special-cocktail-card-icon {
+    width: 100%!important;    
+}
+
+.lvlx-card {
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    background-size: cover!important;
+}
+
+/* Star Wars */
+
+.lvlx-star-wars-cocktail-card {
+    background-image: url(../imgs/star-wars-cocktail-bg.jpg);
+    box-shadow: none!important;
+}
+
+.lvlx-star-wars-cocktails-bg {
+    background-image: url(../imgs/star-wars-cocktail-bg.jpg)!important;
+    background-repeat: repeat;
+    background-size: unset;
+}
+
+.lvlx-star-wars-cocktail-card-red-light-sabre {
+    box-shadow: 0px 0px 2px 2px rgba(255, 255, 255, 0.75), 0px 0px 6px 6px rgba(255, 0, 0, 0.75)!important;
+}
+
+.lvlx-star-wars-cocktail-card-blue-light-sabre {
+    box-shadow: 0px 0px 2px 2px rgba(255, 255, 255, 0.75), 0px 0px 6px 6px rgba(77, 84, 255, 0.75)!important;
+}
+
+.lvlx-star-wars-cocktail-card-green-light-sabre {
+    box-shadow: 0px 0px 2px 2px rgba(255, 255, 255, 0.75), 0px 0px 6px 6px rgba(28, 194, 44, 0.75)!important;
+}
+
+.lvlx-star-wars-cocktail-card-white-light-sabre {
+    box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.75), 0px 0px 6px 6px rgba(255, 255, 255, 0.75)!important;
+}
+
+/* Mortal Kombat */
+
+.lvlx-mortal-kombat-cocktail-card {
+    background-image: url(../imgs/mortal-kombat-cocktail-bg.jpg)!important;
+}
+
+/* Cyberpunk 2077 */
+
+.lvlx-cyberpunk-2077-cocktail-card {
+    background-image: url(../imgs/cyberpunk-2077-cocktail-bg.jpg)!important;
+    box-shadow: 0px 0px 2px 2px rgba(240, 21, 244, 0.75), 0px 0px 1px 1px rgba(255, 255, 255, 0.75);
+}
+
+/* Game of Thrones */
+
+.lvlx-game-of-thrones-cocktail-card {
+    background-image: url(../imgs/game-of-thrones-cocktail-bg.jpg)!important;
+}
+
+/* Harry Potter */
+
+.lvlx-harry-potter-cocktail-card {
+    background-image: url(../imgs/harry-potter-cocktail-bg.jpg)!important;
+}
+
+/* La casa di carta */
+
+.lvlx-la-casa-di-carta-cocktail-card {
+    background-image: url(../imgs/la-casa-di-carta-cocktail-bg.jpg)!important;
+}
+
+/* Marvel */
+
+.lvlx-marvel-cocktail-card {
+    background-image: url(../imgs/marvel-cocktail-bg.jpg)!important;
+}
+
+/* Stranger Things */
+
+.lvlx-stranger-things-cocktail-card {
+    background-image: url(../imgs/stranger-things-cocktail-bg.jpg)!important;
+}
+
+/* Celti */
+
+.lvlx-celti-cocktail-card {
+    background-image: url(../imgs/celti-cocktail-bg.jpg)!important;
+}
+
+/* Trash */
+
+.lvlx-trash-cocktail-card {
+    background-image: url(../imgs/trash-cocktail-bg.jpg)!important;
+}
+
+/* Overpower */
+
+.lvlx-overpower-cocktail-card {
+    background-image: url(../imgs/overpower-cocktail-bg.jpg)!important;
+}
